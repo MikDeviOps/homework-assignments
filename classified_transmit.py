@@ -14,3 +14,16 @@
 Пример: "привет" → "ТЕВИРП"
 
 '''
+
+text = 'белый'
+text = text[::-1]
+print(text)
+
+
+text2 = 'красный'
+text2 = text2[::-1].upper()
+print(text2)
+
+text3 = 'амид'
+text3 = text3[::-1].upper()
+print(text3)
